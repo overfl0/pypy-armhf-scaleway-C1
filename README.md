@@ -14,7 +14,7 @@ https://doc.pypy.org/en/release-2.4.x/arm.html
 
 ### Notes:
 
-After trying (and failing) several methods to build PyPy for Scaleway's C1 servers, I finally obtained a working executable by using somthing that's probably the most time-consuming method:
+After trying (and failing) several methods to build PyPy for Scaleway's C1 servers, I finally obtained a working executable by using something that's probably the most time-consuming method:
 
 I created an armv7 chroot on a x86_64 linux machine, overwrote it with original files from a real C1 server, and built PyPy from source, inside it. See links above for more details on how to do that. If you want to build it yourself, expect the compilation to take around 8 (eight) hours!
 
