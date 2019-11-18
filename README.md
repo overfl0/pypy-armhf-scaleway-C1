@@ -10,7 +10,7 @@ https://rpython.readthedocs.io/en/latest/arm.html
 
 ## Download
 
-https://github.com/overfl0/pypy-armhf/releases/download/7.2.0/pypy3.6-v7.2.0-armhf.tar.bz2
+https://github.com/overfl0/pypy-armhf-scaleway-C1/releases/download/7.2.0/pypy3.6-v7.2.0-armhf.tar.bz2
 
 ### Notes:
 
